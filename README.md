@@ -1,4 +1,4 @@
-# Change++ 2020 Coding Challenge
+ # Change++ 2020 Coding Challenge
 ## Before You Begin
 
 Congrats!! You have been selected to engage in the next step of the Change++ interview process. The next step in our application process is completing the following coding project. As we are unable to offer interviews to every applicant, we will use this challenge to evaluate a number of criteria including technical skills and commitment to Change++. We expect this to take between 2-6 hours depending on experience level and technical skills. We recognize that you are all busy, but as a member of a Change++ team it is expected that you will dedicate 4-6 hours every week working on your project; therefore, we believe this is a reasonable timeframe.
@@ -79,3 +79,16 @@ There are many exciting and fun ways to expand this application that we do not r
   <li>While Change++ encourages collaboration and you are free to discuss this assignment with your peers, we do not recommend completing your code with other applicants. As there are so many possible solutions, we will easily be able to identify code that is too similar, and it will also be a disadvantage to you if you do not understand your code well enough to build upon or explain it in the future.</li>
   <li>Good luck!</li>
 </ul>
+
+
+## My ideas
+
+I think this program should call the url of twitter API by using fetch function to ask for a http request. Then I need to select all of the tweets posted by EM and KY (and not to extract the reposted tweets of EM and KY from the tweets pool). Get the total number of all of these tweets, and arrange them randomly in a list(we can build an object here that contain these two elements). Every element in this list combines a tweet content and the user that posted this tweet. Load all of these tweets before the program start and instruct users to start the game. Give the first tweet content to the user, the user answers this question, and we give him or her a feedback. After a tweet content is poped on the screen, the param tweet will be replaced with the next element in the list. the user can end the game by typing "end" on the screen; if not, the user is going to play the name until all of the tweets are poped off from the list.
+
+This program is still not complete yet because i've spend too much time studying how to add the twitter API in my program.
+
+Here's the link of my resume, including most of my pm internship experience: 
+https://drive.google.com/file/d/1jxogrf30icaNFsjW5dyKvgzL9EthSPuw/view?usp=sharing
+
+Last, I want to say that though my coding skills is not that experienced as many of the student software developers on campus, but I'm willing to learn some necessary full stack coding knowledge if needed. And I'm definitely super experienced with everything involved with product management and I'd love to prove my product management skills through the interview. I think Change++ definitely need someone to coordinate between team members and between our developer team and NGOs. I'm familiar with writing PRDs, prototyping using different kinds of softwares, AB testing, event tracking, improvement on ML models, and the effecitve use of data analysis to update our products. I want to transform the requirement to useful features on our applications, get involved in the user research, and lead apps to higher user growth. I would love to share more details about my PM experience in the interview! 
+
